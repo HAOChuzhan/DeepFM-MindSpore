@@ -1,0 +1,2 @@
+mindspore.model_zoo
+pip install mindspore==1.2.0
