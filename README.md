@@ -1,4 +1,4 @@
-# MindSpore
+# MindSpore-DeepFM
 这里是对于MinsSpore框架中部分模型的复现，参考其中model_zoo相关模型。
 #### deepFM模型
 - 数据预处理 输入：	python src/preprocess_data.py 
